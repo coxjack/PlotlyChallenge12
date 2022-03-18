@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(114, 144, 150);
+}
+
+.tag {
+   font-family: inherit; 
+   font-size: 1rem;
+  }  
+.jumbotron {
+    background-image: url("images/viruses-bacteria-fungi.jpeg");
+    background-size: 100% 100%;
+    color: whitesmoke;
+    text-align: center;
+  }
